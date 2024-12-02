@@ -6,7 +6,7 @@ Website: https://yiromaric.fr
 Contact: yiromaric@gmail.com
 
 /* SITE */
-Last update: 2024-11-19
+Last update: 2024-12-02
 Standards: HTML5, CSS3, JavaScript (ES6+)
 Frameworks: Next.js, React.js
 Tools: Tailwind CSS, GitHub
